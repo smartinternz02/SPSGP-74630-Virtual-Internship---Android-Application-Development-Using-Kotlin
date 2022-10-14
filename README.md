@@ -3,7 +3,7 @@
 [![Masterhead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://g.dev/mirack)
 
 # Project Docs & Demo link 👇
-[![Masterhead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://g.dev/mirack)
+[![Masterhead](https://elitetools-partner.com/wp-content/uploads/2020/07/google-drive-gif.gif)](https://g.dev/mirack)
 
 
 # Dear smartinternz02
