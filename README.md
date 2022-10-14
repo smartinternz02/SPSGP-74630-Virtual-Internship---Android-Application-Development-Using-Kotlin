@@ -1,6 +1,9 @@
-Dear @smartinternz02(https://github.com/smartinternz02)
-Recently my win 11 OS is crashed and applications can't work properly.If rest & reinstall, it has all project data in this device ony.
-Thats why my submission is late.
+# Dear smartinternz02
+Recently my win 11 OS is crashed & applications can't work properly and data cannot copy manually only through mails and whatsapp only.
+If reset & reinstall, it has all project data in this device ony.
+Thats why my submission is late.I'm verry sorry about disappointing you.
+GitHub cant accept that much of files via drag/uploading.So i decide to compress and upload single zip file,I hope kindly check it.
+Yhank you.
 
 # Project Idea
 
