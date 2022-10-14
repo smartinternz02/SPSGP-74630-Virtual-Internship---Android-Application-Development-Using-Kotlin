@@ -1,5 +1,5 @@
 # Google Developer Profile
->> click on image
+- click on image -
 [![Masterhead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://g.dev/mirack)
 
 # Project Docs & Demo drive link 👇
