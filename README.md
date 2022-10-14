@@ -1,25 +1,7 @@
-<<<<<<< HEAD
-## Android Near by places app
+Dear @smartinternz02(https://github.com/smartinternz02)
+Recently my win 11 OS is crashed and applications can't work properly.If rest & reinstall, it has all project data in this device ony.
+Thats why my submission is late.
 
-# Preview
-
-# show current location with details
-<img src="screenshots/one.jpg" width="400" height="500">
-
-# Near by places
-<img src="screenshots/two.png" width="400" height="500">
-
-# place details
-<img src="screenshots/three.png" width="400" height="500">
-
-# show all places in map
-<img src="screenshots/four.png" width="400" height="500">
-
-# show direction from current location
-<img src="screenshots/five.png" width="400" height="500">
-
-##### just add your map api in strings.xml file
-=======
 # Project Idea
 
 The idea of this project is to make a grocery android app that users can use to order the groceries they want. It doesn't contain any backend it is only android front end, but it will contain login athentication with firebase.
